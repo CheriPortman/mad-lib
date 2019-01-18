@@ -4,6 +4,10 @@ label {
 }
 
 body {
-    background: rgb(136, 137, 216);
+    background: linear-gradient(
+        135deg,
+        pink, 
+        purple
+    );
 }
 
